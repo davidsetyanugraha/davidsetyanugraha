@@ -14,6 +14,3 @@ Currently holds [Bachelor degree in Computer Science ((with distinction))](https
 ### I have contributed to:
 - [Indonlu](https://github.com/indobenchmark/indonlu) — The first-ever vast natural language processing benchmark for Indonesian Language.
 - [Fiber](https://github.com/gofiber/fiber) — An Express inspired web framework written in Go.
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=davidsetyanugraha&amp;show_icons=true" alt="GitHub Stats"></p>
