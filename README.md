@@ -9,5 +9,6 @@ Software engineer with 3+ years professional experience developing apps. Current
 <br />
 
 I am a contributor to these amazing projects: 
-- [Indonlu](https://github.com/indobenchmark/indonlu) — The first-ever vast natural language processing benchmark for Indonesian Language 
-- [Fiber](https://github.com/gofiber/fiber) — An Express inspired web framework written in Go
+- [Fiber](https://github.com/gofiber/fiber) — An Express inspired web framework written in Go.
+- [Indonlu](https://github.com/indobenchmark/indonlu) — The first-ever vast natural language processing benchmark for Indonesian Language.
+
