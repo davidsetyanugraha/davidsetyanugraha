@@ -6,9 +6,10 @@ Software engineer with 3+ years professional experience developing apps. Current
 [![Gmail Badge](https://img.shields.io/badge/-dsetyanugraha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dsetyanugraha@gmail.com)](mailto:dsetyanugraha@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-dsetyanugraha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsetyanugraha/)](https://www.linkedin.com/in/dsetyanugraha/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-dsetyanugraha-blue?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10596109/david-setyanugraha)](https://stackoverflow.com/users/10596109/david-setyanugraha)
+![](https://visitor-badge.glitch.me/badge?page_id=davidsetyanugraha.davidsetyanugraha)
 
 I am a contributor to these amazing projects: 
 - [Fiber](https://github.com/gofiber/fiber) — An Express inspired web framework written in Go.
 - [Indonlu](https://github.com/indobenchmark/indonlu) — The first-ever vast natural language processing benchmark for Indonesian Language.
 
-![](https://visitor-badge.glitch.me/badge?page_id=davidsetyanugraha.davidsetyanugraha)
+
