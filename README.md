@@ -1,6 +1,6 @@
 <h2> Hi, I'm David Setyanugraha!</h2>
 <p>
-Software engineer with 3+ years professional experience developing apps. I have strong background on designing, developing, maintaining, testing, and evaluating a software product. 
+Software engineer with 3+ years professional experience developing apps. 
 <p />
 
 Currently holds [Bachelor degree in Computer Science ((with distinction))](https://www.linkedin.com/in/dsetyanugraha/), [Master degree in Computer science ((with distinction))](https://www.linkedin.com/feed/update/urn:li:activity:6693367335656529920/), [frontend libraries developer certification](https://www.freecodecamp.org/certification/fcc6e236d6e-59fb-4dd4-853a-2b6033d4a7fc/front-end-libraries) , [javaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/certification/fcc6e236d6e-59fb-4dd4-853a-2b6033d4a7fc/javascript-algorithms-and-data-structures).
