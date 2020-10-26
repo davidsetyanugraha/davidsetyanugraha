@@ -1,4 +1,4 @@
-Hi there! I am a software engineer (degrees in Computer Science) and contributor to these amazing projects: 
+Hi there! I am a <b>software engineer</b> (degrees in Computer Science) and <b>contributor</b> to these amazing projects: 
 - [Coding-interview-university](https://github.com/jwasham/coding-interview-university) — A complete computer science study plan to become a software engineer.
 - [Fiber](https://github.com/gofiber/fiber) — An Express inspired web framework written in Go.
 - [Indonlu](https://github.com/indobenchmark/indonlu) — The first-ever vast natural language processing benchmark for Indonesian Language.
