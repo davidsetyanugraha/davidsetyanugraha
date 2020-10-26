@@ -1,6 +1,6 @@
 <h2> Hi, I'm David Setyanugraha!</h2>
 
-Software engineer with 3+ years professional experience developing apps, holds Bachelor degree in Computer Science ((with distinction)) and [Master degree in Computer science ((with distinction))](https://www.linkedin.com/feed/update/urn:li:activity:6693367335656529920/).
+Software engineer with professional experience developing apps, holds Bachelor degree in Computer Science ((with distinction)) and [Master degree in Computer science ((with distinction))](https://www.linkedin.com/feed/update/urn:li:activity:6693367335656529920/).
 
 [![GitHub David](https://img.shields.io/github/followers/davidsetyanugraha?label=follow&style=social)](https://github.com/davidsetyanugraha)
 [![Gmail Badge](https://img.shields.io/badge/-dsetyanugraha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dsetyanugraha@gmail.com)](mailto:dsetyanugraha@gmail.com)
